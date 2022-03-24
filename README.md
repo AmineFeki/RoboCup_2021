@@ -26,4 +26,5 @@ It is the brain of the robot. In this tutorial, we are using [Arduino](https://w
 
 ### 6. The roboclaw
 
-## Step 2: Wiring:
+## Step 2: Wiring:![Untitled Sketch 2_bb](https://user-images.githubusercontent.com/53936812/159925290-1d2d3356-4244-4db2-a441-2dc6d7937bf2.png)
+
